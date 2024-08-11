@@ -1,0 +1,53 @@
+[
+    {
+      "firstname": "Khoa",
+      "lastname": "Pham",
+      "gender": "male",
+      "birthday": "09/29/2002",
+      "status": "Married",
+      "paid": 16.1,
+      "job": "Cashier",
+      "workplace": "Sobeys"
+    
+    },
+    {
+      "firstname": "Christopher",
+      "lastname": "Pham",
+      "gender": "male",
+      "birthday": "02/11/1985",
+      "status": "Married",
+      "paid": 17,
+      "job": "Crew member",
+      "workplace": "Booster Juice"
+    },
+    {
+      "firstname": "Nhu",
+      "lastname": "Pham",
+      "gender": "female",
+      "birthday": "11/13/1998",
+      "status": "single",
+      "paid": 25,
+      "job": "Child Youth Care",
+      "workplace": "Blue Sky"
+    },
+    {
+      "firstname": "Sammy",
+      "lastname": "Joe",
+      "gender": "female",
+      "birthday": "10/18/1988",
+      "status": "Married",
+      "paid": 16.7,
+      "job": "Cashier",
+      "workplace": "Sobeys"
+    },
+    {
+      "firstname": "Jack",
+      "lastname": "May",
+      "gender": "nonbinary",
+      "birthday": "12/25/1995",
+      "status": "Married",
+      "paid": 18,
+      "Job": "File Maintanence Clerk",
+      "Workplace": "Kent Building Supplies "
+    }
+]
